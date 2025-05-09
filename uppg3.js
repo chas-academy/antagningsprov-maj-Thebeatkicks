@@ -12,6 +12,6 @@ let b = 10;
 console.log(a + b);
 
 }
-
+uppg3();
 
 module.exports = { uppg3 };

@@ -7,5 +7,5 @@ function uppg2() {
    let name = "Henrik Martini";
    console.log(name); 
 }
-
+uppg2();
 module.exports = { uppg2 };
